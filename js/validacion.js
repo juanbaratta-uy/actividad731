@@ -12,6 +12,6 @@ function verificarContrasena() {
     if (pass1 == pass2) {
         return true;
     } else {
-        return false
+        return false;
     }
 }
